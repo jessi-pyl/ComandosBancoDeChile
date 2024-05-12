@@ -1,0 +1,6 @@
+Codigos de git hub 
+
+1 git init
+ crear repositorio a mi cuenta github
+ 
+2
